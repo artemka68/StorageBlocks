@@ -2,7 +2,8 @@
   "values": [
 
     "storageblocks:sugar_cane_crate",
-    "storageblocks:paper_crate"
+    "storageblocks:paper_crate",
+    "storageblocks:leather_crate"
 
   ]
 }

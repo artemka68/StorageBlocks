@@ -2,6 +2,7 @@
 
   "block.storageblocks.sugar_cane_crate": "Sugar Cane Crate",
   "block.storageblocks.paper_crate": "Paper Crate",
+  "block.storageblocks.leather_crate": "Leather Crate",
 
   "itemgroup.storageblocks_group": "Storage Blocks"
 }

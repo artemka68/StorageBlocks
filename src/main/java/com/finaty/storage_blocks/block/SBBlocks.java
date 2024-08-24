@@ -19,6 +19,9 @@ public class SBBlocks {
     public static final Block PAPER_CRATE = registerBlock("paper_crate",
             new Block(AbstractBlock.Settings.create().sounds(BlockSoundGroup.BAMBOO_WOOD).strength(2f)));
 
+    public static final Block LEATHER_CRATE = registerBlock("leather_crate",
+            new Block(AbstractBlock.Settings.create().sounds(BlockSoundGroup.BAMBOO_WOOD).strength(2f)));
+
 
 //AbstractBlock.Settings.copy(Blocks.DIAMOND_BLOCK).sounds(BlockSoundGroup.STONE)));
 
