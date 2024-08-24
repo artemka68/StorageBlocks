@@ -14,10 +14,10 @@ import net.minecraft.util.Identifier;
 public class ModBlocks {
 
 
-    public static final Block SUGAR_CANE_BLOCK = registerBlock("sugar_cane_block",
+    public static final Block SUGAR_CANE_CRATE = registerBlock("sugar_cane_crate",
             new Block(AbstractBlock.Settings.create().requiresTool().sounds(BlockSoundGroup.BAMBOO_WOOD).strength(5f)));
 
-    public static final Block PAPER_BLOCK = registerBlock("paper_block",
+    public static final Block PAPER_CRATE = registerBlock("paper_crate",
             new Block(AbstractBlock.Settings.create().requiresTool().sounds(BlockSoundGroup.BAMBOO_WOOD).strength(5f)));
 
 

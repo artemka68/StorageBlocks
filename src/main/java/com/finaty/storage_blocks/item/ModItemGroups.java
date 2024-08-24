@@ -14,13 +14,13 @@ public class ModItemGroups {
     public static final ItemGroup STORAGE_BLOCKS_GROUP = Registry.register(Registries.ITEM_GROUP,
             Identifier.of(StorageBlocks.MOD_ID, "storageblocks_group"),
             FabricItemGroup.builder().displayName(Text.translatable("itemgroup.storageblocks_group"))
-                    .icon(() -> new ItemStack(ModBlocks.SUGAR_CANE_BLOCK)).entries((displayContext, entries) -> {
+                    .icon(() -> new ItemStack(ModBlocks.SUGAR_CANE_CRATE)).entries((displayContext, entries) -> {
 
 
 
 
-                        entries.add(ModBlocks.SUGAR_CANE_BLOCK);
-                        entries.add(ModBlocks.PAPER_BLOCK);
+                        entries.add(ModBlocks.SUGAR_CANE_CRATE);
+                        entries.add(ModBlocks.PAPER_CRATE);
 
 
 

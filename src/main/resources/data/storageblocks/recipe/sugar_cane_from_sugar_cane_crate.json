@@ -3,12 +3,12 @@
   "category": "building",
   "ingredients": [
     {
-      "item": "storageblocks:paper_block"
+      "item": "storageblocks:sugar_cane_crate"
     }
   ],
   "result": {
     "count": 9,
-    "id": "minecraft:paper"
+    "id": "minecraft:sugar_cane"
   }
 }
 

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "storageblocks:block/paper_crate"
+    }
+  }
+}

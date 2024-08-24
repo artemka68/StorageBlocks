@@ -1,7 +1,7 @@
 {
 
-  "block.storageblocks.sugar_cane_block": "Sugar Cane Crate",
-  "block.storageblocks.paper_block": "Paper Crate",
+  "block.storageblocks.sugar_cane_crate": "Sugar Cane Crate",
+  "block.storageblocks.paper_crate": "Paper Crate",
 
   "itemgroup.storageblocks_group": "Storage Blocks"
 }

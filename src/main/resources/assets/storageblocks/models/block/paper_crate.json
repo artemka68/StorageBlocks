@@ -1,8 +1,8 @@
 {
-  "parent": "minecraft:block/cube_all",
+  "parent": "minecraft:block/cube_bottom_top",
   "textures": {
     "top": "storageblocks:block/paper_crate_top",
-    "side": "storageblocks:block/paper_crate_top",
-    "bottom": "storageblocks:block/paper_crate_top"
+    "side": "storageblocks:block/paper_crate_side",
+    "bottom": "storageblocks:block/crate_bottom"
   }
 }

@@ -11,7 +11,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "storageblocks:sugar_cane_block"
+          "name": "storageblocks:sugar_cane_crate"
         }
       ],
       "rolls": 1.0
