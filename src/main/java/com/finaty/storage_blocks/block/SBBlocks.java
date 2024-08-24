@@ -3,7 +3,6 @@ package com.finaty.storage_blocks.block;
 import com.finaty.storage_blocks.StorageBlocks;
 import net.minecraft.block.AbstractBlock;
 import net.minecraft.block.Block;
-import net.minecraft.block.Blocks;
 import net.minecraft.item.BlockItem;
 import net.minecraft.item.Item;
 import net.minecraft.registry.Registries;
@@ -11,14 +10,14 @@ import net.minecraft.registry.Registry;
 import net.minecraft.sound.BlockSoundGroup;
 import net.minecraft.util.Identifier;
 
-public class ModBlocks {
+public class SBBlocks {
 
 
     public static final Block SUGAR_CANE_CRATE = registerBlock("sugar_cane_crate",
-            new Block(AbstractBlock.Settings.create().requiresTool().sounds(BlockSoundGroup.BAMBOO_WOOD).strength(5f)));
+            new Block(AbstractBlock.Settings.create().sounds(BlockSoundGroup.BAMBOO_WOOD).strength(2f)));
 
     public static final Block PAPER_CRATE = registerBlock("paper_crate",
-            new Block(AbstractBlock.Settings.create().requiresTool().sounds(BlockSoundGroup.BAMBOO_WOOD).strength(5f)));
+            new Block(AbstractBlock.Settings.create().sounds(BlockSoundGroup.BAMBOO_WOOD).strength(2f)));
 
 
 //AbstractBlock.Settings.copy(Blocks.DIAMOND_BLOCK).sounds(BlockSoundGroup.STONE)));

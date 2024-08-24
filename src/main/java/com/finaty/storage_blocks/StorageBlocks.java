@@ -1,7 +1,7 @@
 package com.finaty.storage_blocks;
 
-import com.finaty.storage_blocks.block.ModBlocks;
-import com.finaty.storage_blocks.item.ModItemGroups;
+import com.finaty.storage_blocks.block.SBBlocks;
+import com.finaty.storage_blocks.item.SBItemGroups;
 import net.fabricmc.api.ModInitializer;
 
 import net.minecraft.util.Identifier;
@@ -14,8 +14,8 @@ public class StorageBlocks implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-		ModItemGroups.registerItemGroups();
-		ModBlocks.registerModBlocks();
+		SBItemGroups.registerItemGroups();
+		SBBlocks.registerModBlocks();
 	}
 	public static Identifier id(String path) {
 		return Identifier.of(MOD_ID, path);
