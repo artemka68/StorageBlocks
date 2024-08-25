@@ -3,6 +3,6 @@
   "textures": {
     "top": "storageblocks:block/leather_crate_top",
     "side": "storageblocks:block/leather_crate_side",
-    "bottom": "storageblocks:block/leather_bottom"
+    "bottom": "storageblocks:block/crate_bottom"
   }
 }
