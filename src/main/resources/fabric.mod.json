@@ -2,14 +2,14 @@
 	"schemaVersion": 1,
 	"id": "storageblocks",
 	"version": "${version}",
-	"name": "StorageBlocks",
-	"description": "Storage Blocks in Minecraft",
+	"name": "Storage Blocks",
+	"description": "Adds new crates with items to your game.",
 	"authors": [
 		"7heFiNaTy"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://modrinth.com/project/storageblocks",
+		"sources": "https://github.com/artemka68/Storage_Blocks/tree/master"
 	},
 	"license": "MIT",
 	"icon": "assets/storageblocks/icon.png",
@@ -36,5 +36,12 @@
 	},
 	"suggests": {
 		"another-mod": "*"
+	},
+	"custom": {
+		"modmenu": {
+			"links": {
+				"modmenu.discord": "https://discord.gg/hQFJSj2Hcy"
+			}
+		}
 	}
 }
