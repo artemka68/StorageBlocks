@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "storageblocks:block/gunpowder_crate_top",
+    "side": "storageblocks:block/gunpowder_crate_side",
+    "bottom": "storageblocks:block/crate_bottom"
+  }
+}

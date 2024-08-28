@@ -3,7 +3,14 @@
 
     "storageblocks:sugar_cane_crate",
     "storageblocks:paper_crate",
-    "storageblocks:leather_crate"
+    "storageblocks:leather_crate",
+    "storageblocks:feather_crate",
+    "storageblocks:gunpowder_crate",
+    "storageblocks:sugar_crate",
+    "storageblocks:blaze_rod_crate",
+    "storageblocks:blaze_powder_crate",
+    "storageblocks:bone_crate",
+    "storageblocks:string_crate"
 
   ]
 }

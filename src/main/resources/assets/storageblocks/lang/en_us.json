@@ -3,6 +3,13 @@
   "block.storageblocks.sugar_cane_crate": "Sugar Cane Crate",
   "block.storageblocks.paper_crate": "Paper Crate",
   "block.storageblocks.leather_crate": "Leather Crate",
+  "block.storageblocks.feather_crate": "Feather Crate",
+  "block.storageblocks.gunpowder_crate": "Gunpowder Crate",
+  "block.storageblocks.sugar_crate": "Sugar Crate",
+  "block.storageblocks.blaze_rod_crate": "Blaze Rod Crate",
+  "block.storageblocks.blaze_powder_crate": "Blaze Powder Crate",
+  "block.storageblocks.bone_crate": "Bone Crate",
+  "block.storageblocks.string_crate": "String Crate",
 
   "itemgroup.storageblocks_group": "Storage Blocks"
 }

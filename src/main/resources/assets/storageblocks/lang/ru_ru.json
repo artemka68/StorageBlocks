@@ -1,9 +1,15 @@
 {
 
-  "block.storageblocks.sugar_cane_crate": "Ящик из сахарного тростника",
-  "block.storageblocks.paper_crate": "Ящик из бумаги",
-  "block.storageblocks.leather_crate": "Ящик из кожи",
-
+  "block.storageblocks.sugar_cane_crate": "Ящик с сахарным тростником",
+  "block.storageblocks.paper_crate": "Ящик с бумагой",
+  "block.storageblocks.leather_crate": "Ящик с кожей",
+  "block.storageblocks.feather_crate": "Ящик с перьями",
+  "block.storageblocks.gunpowder_crate": "Ящик с порохом",
+  "block.storageblocks.sugar_crate": "Ящик с сахаром",
+  "block.storageblocks.blaze_rod_crate": "Ящик с огненными стержнями",
+  "block.storageblocks.blaze_powder_crate": "Ящик с огненным порошком",
+  "block.storageblocks.bone_crate": "Ящик с костями",
+  "block.storageblocks.string_crate": "Ящик с нитью",
 
   "itemgroup.storageblocks": "Блоки для хранения"
 }

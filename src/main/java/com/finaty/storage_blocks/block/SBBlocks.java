@@ -22,6 +22,28 @@ public class SBBlocks {
     public static final Block LEATHER_CRATE = registerBlock("leather_crate",
             new Block(AbstractBlock.Settings.create().sounds(BlockSoundGroup.BAMBOO_WOOD).strength(2f)));
 
+    public static final Block FEATHER_CRATE = registerBlock("feather_crate",
+            new Block(AbstractBlock.Settings.create().sounds(BlockSoundGroup.BAMBOO_WOOD).strength(2f)));
+
+    public static final Block GUNPOWDER_CRATE = registerBlock("gunpowder_crate",
+            new Block(AbstractBlock.Settings.create().sounds(BlockSoundGroup.BAMBOO_WOOD).strength(2f)));
+
+    public static final Block SUGAR_CRATE = registerBlock("sugar_crate",
+            new Block(AbstractBlock.Settings.create().sounds(BlockSoundGroup.BAMBOO_WOOD).strength(2f)));
+
+    public static final Block BLAZE_ROD_CRATE = registerBlock("blaze_rod_crate",
+            new Block(AbstractBlock.Settings.create().sounds(BlockSoundGroup.BAMBOO_WOOD).strength(2f)));
+
+    public static final Block BLAZE_POWDER_CRATE = registerBlock("blaze_powder_crate",
+            new Block(AbstractBlock.Settings.create().sounds(BlockSoundGroup.BAMBOO_WOOD).strength(2f)));
+
+    public static final Block BONE_CRATE = registerBlock("bone_crate",
+            new Block(AbstractBlock.Settings.create().sounds(BlockSoundGroup.BAMBOO_WOOD).strength(2f)));
+
+    public static final Block STRING_CRATE = registerBlock("string_crate",
+            new Block(AbstractBlock.Settings.create().sounds(BlockSoundGroup.BAMBOO_WOOD).strength(2f)));
+
+
 
 //AbstractBlock.Settings.copy(Blocks.DIAMOND_BLOCK).sounds(BlockSoundGroup.STONE)));
 

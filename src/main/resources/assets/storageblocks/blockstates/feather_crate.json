@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "storageblocks:block/feather_crate"
+    }
+  }
+}

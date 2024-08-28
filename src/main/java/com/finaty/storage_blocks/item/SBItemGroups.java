@@ -22,6 +22,13 @@ public class SBItemGroups {
                         entries.add(SBBlocks.SUGAR_CANE_CRATE);
                         entries.add(SBBlocks.PAPER_CRATE);
                         entries.add(SBBlocks.LEATHER_CRATE);
+                        entries.add(SBBlocks.FEATHER_CRATE);
+                        entries.add(SBBlocks.GUNPOWDER_CRATE);
+                        entries.add(SBBlocks.SUGAR_CRATE);
+                        entries.add(SBBlocks.BLAZE_ROD_CRATE);
+                        entries.add(SBBlocks.BLAZE_POWDER_CRATE);
+                        entries.add(SBBlocks.BONE_CRATE);
+                        entries.add(SBBlocks.STRING_CRATE);
 
 
 
